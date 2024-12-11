@@ -1,2 +1,2 @@
 # ADHD
-Code for "Is mild ADHD beneficial: Brain criticality is maximal with moderate ADHD symptom scores"
+Code for "Is mild Attention-Deficit/Hyperactivity Disorder beneficial? Brain criticality peaks at intermediate symptom scores across the population"
